@@ -1,0 +1,27 @@
+benchmark_id,product_code,unit,business_type,location,quality,vat_basis,minimum_unit_price,maximum_unit_price,valid_from,valid_to,reference_source
+DEMO-PRICE-001,PROD001,bag,Wholesale,Demo town,Standard,VAT-exclusive,33000.00,37000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-002,PROD001,bag,Retail,Demo town,Standard,VAT-exclusive,38000.00,45000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-003,PROD002,piece,Wholesale,Demo town,Standard,VAT-exclusive,900.00,1200.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-004,PROD002,piece,Retail,Demo town,Standard,VAT-exclusive,1300.00,1800.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-005,PROD003,piece,Wholesale,Demo town,Standard,VAT-exclusive,140000.00,170000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-006,PROD003,piece,Retail,Demo town,Standard,VAT-exclusive,175000.00,210000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-007,PROD004,piece,Wholesale,Demo town,Standard,VAT-exclusive,750000.00,850000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-008,PROD004,piece,Retail,Demo town,Standard,VAT-exclusive,900000.00,1050000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-009,PROD005,packet,Wholesale,Demo town,Standard,VAT-exclusive,4500.00,5500.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-010,PROD005,packet,Retail,Demo town,Standard,VAT-exclusive,5800.00,7000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-011,PROD006,bottle,Wholesale,Demo town,Standard,VAT-exclusive,9000.00,11000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-012,PROD006,bottle,Retail,Demo town,Standard,VAT-exclusive,11500.00,14000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-013,PROD007,piece,Wholesale,Demo town,Standard,VAT-exclusive,14000.00,17000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-014,PROD007,piece,Retail,Demo town,Standard,VAT-exclusive,18000.00,24000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-015,PROD008,pair,Wholesale,Demo town,Standard,VAT-exclusive,35000.00,45000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-016,PROD008,pair,Retail,Demo town,Standard,VAT-exclusive,48000.00,60000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-017,PROD009,piece,Wholesale,Demo town,Standard,VAT-exclusive,45000.00,55000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-018,PROD009,piece,Retail,Demo town,Standard,VAT-exclusive,60000.00,75000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-019,PROD010,piece,Wholesale,Demo town,Standard,VAT-exclusive,140000.00,170000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-020,PROD010,piece,Retail,Demo town,Standard,VAT-exclusive,175000.00,220000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-021,PROD011,piece,Wholesale,Demo town,Standard,VAT-exclusive,4500.00,6000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-022,PROD011,piece,Retail,Demo town,Standard,VAT-exclusive,6500.00,8500.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-023,PROD012,piece,Wholesale,Demo town,Standard,VAT-exclusive,9000.00,11000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-024,PROD012,piece,Retail,Demo town,Standard,VAT-exclusive,12000.00,16000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-025,PROD013,piece,Wholesale,Demo town,Standard,VAT-exclusive,23000.00,28000.00,2026-01-01,2026-06-30,Simulation assumption
+DEMO-PRICE-026,PROD013,piece,Retail,Demo town,Standard,VAT-exclusive,28000.00,35000.00,2026-01-01,2026-06-30,Simulation assumption

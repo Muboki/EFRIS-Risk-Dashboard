@@ -1,0 +1,13 @@
+taxpayer_id,business_name,business_type,business_activity,vat_registered
+DEMO001,Demo Hardware Wholesale,Wholesale,Hardware,True
+DEMO002,Demo Hardware Retail,Retail,Hardware,True
+DEMO003,Demo Electronics Wholesale,Wholesale,Electronics,True
+DEMO004,Demo Electronics Retail,Retail,Electronics,True
+DEMO005,Demo Groceries Wholesale,Wholesale,Groceries,True
+DEMO006,Demo Groceries Retail,Retail,Groceries,True
+DEMO007,Demo Clothing Wholesale,Wholesale,Clothing,True
+DEMO008,Demo Clothing Retail,Retail,Clothing,True
+DEMO009,Demo Furniture Wholesale,Wholesale,Furniture,True
+DEMO010,Demo Furniture Retail,Retail,Furniture,True
+DEMO011,Demo Household Wholesale,Wholesale,Household goods,True
+DEMO012,Demo Household Retail,Retail,Household goods,True

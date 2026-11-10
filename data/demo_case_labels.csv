@@ -1,0 +1,10 @@
+case_id,rule_name,taxpayer_id,product_code,record_type,record_id,fdn,line_number,expected_status,reason
+CASE-001,VAT misclassification,DEMO002,PROD001,Stocking-in,DEMO-STK-001,,,Flagged,Cement was stocked as exempt although the simulated reference classifies it as standard-rated
+CASE-002,VAT misclassification,DEMO002,PROD001,Invoice line,,DEMO-FDN-007,1,Flagged,The retailer sold the cement as exempt and recorded zero VAT
+CASE-003,Purchases without sales,DEMO002,PROD013,Stock review,DEMO002/PROD013/piece/2026-01-01/2026-01-31,,,Flagged,PVC pipes were purchased on two dates with no sales and all 20 pieces remained in closing stock
+CASE-004,Business-profile mismatch,DEMO006,PROD007,Invoice line,,DEMO-FDN-015,1,Flagged,The clothing sale occurred before the documented diversification took effect
+CASE-005,Possible price understatement,DEMO004,PROD003,Invoice line,,DEMO-FDN-008,1,Flagged,The retail radio price of UGX 150000 was below the comparable minimum of UGX 175000
+CASE-006,VAT misclassification,DEMO001,PROD001,Invoice line,,DEMO-FDN-001,1,Not flagged,The wholesale cement sale recorded the VAT expected under the simulated reference
+CASE-007,Purchases without sales,DEMO002,PROD001,Stock review,DEMO002/PROD001/bag/2026-01-01/2026-01-31,,,Not flagged,The retailer purchased 100 bags of cement and recorded sales of 10 bags
+CASE-008,Business-profile mismatch,DEMO006,PROD007,Invoice line,,DEMO-FDN-016,1,Not flagged,The clothing sale occurred after the documented diversification took effect
+CASE-009,Possible price understatement,DEMO003,PROD003,Invoice line,,DEMO-FDN-002,1,Not flagged,The wholesale radio price of UGX 150000 fell within the comparable range of UGX 140000 to 170000

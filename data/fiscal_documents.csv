@@ -1,0 +1,17 @@
+fdn,seller_id,issue_date,buyer_id,supply_condition,location
+DEMO-FDN-001,DEMO001,2026-01-05,DEMO002,Ordinary domestic sale,Demo town
+DEMO-FDN-002,DEMO003,2026-01-05,DEMO004,Ordinary domestic sale,Demo town
+DEMO-FDN-003,DEMO005,2026-01-05,DEMO006,Ordinary domestic sale,Demo town
+DEMO-FDN-004,DEMO007,2026-01-05,DEMO008,Ordinary domestic sale,Demo town
+DEMO-FDN-005,DEMO009,2026-01-05,DEMO010,Ordinary domestic sale,Demo town
+DEMO-FDN-006,DEMO011,2026-01-05,DEMO012,Ordinary domestic sale,Demo town
+DEMO-FDN-007,DEMO002,2026-01-10,,Ordinary domestic sale,Demo town
+DEMO-FDN-008,DEMO004,2026-01-10,,Ordinary domestic sale,Demo town
+DEMO-FDN-009,DEMO006,2026-01-10,,Ordinary domestic sale,Demo town
+DEMO-FDN-010,DEMO008,2026-01-10,,Ordinary domestic sale,Demo town
+DEMO-FDN-011,DEMO010,2026-01-10,,Ordinary domestic sale,Demo town
+DEMO-FDN-012,DEMO012,2026-01-10,,Ordinary domestic sale,Demo town
+DEMO-FDN-013,DEMO001,2026-01-15,DEMO002,Ordinary domestic sale,Demo town
+DEMO-FDN-014,DEMO001,2026-01-25,DEMO002,Ordinary domestic sale,Demo town
+DEMO-FDN-015,DEMO006,2026-01-28,,Ordinary domestic sale,Demo town
+DEMO-FDN-016,DEMO006,2026-01-30,,Ordinary domestic sale,Demo town

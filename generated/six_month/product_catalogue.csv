@@ -1,0 +1,14 @@
+product_code,product_name,category,unit,expected_vat_category,vat_rate,valid_from,valid_to,supply_condition,reference_source
+PROD001,Cement 50 kg,Hardware,bag,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD002,Door hinge,Hardware,piece,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD003,Radio,Electronics,piece,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD004,Refrigerator,Electronics,piece,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD005,Biscuits 500 g,Groceries,packet,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD006,Fruit juice 5 litres,Groceries,bottle,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD007,Cotton T-shirt,Clothing,piece,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD008,Adult shoes,Clothing,pair,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD009,Plastic chair,Furniture,piece,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD010,Wooden table,Furniture,piece,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD011,Plastic bucket 10 litres,Household goods,piece,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD012,Plastic basin 20 litres,Household goods,piece,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption
+PROD013,PVC pipe 20 mm,Hardware,piece,Standard-rated,0.18,2026-01-01,2026-06-30,Ordinary domestic sale,Simulation assumption

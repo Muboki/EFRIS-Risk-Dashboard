@@ -1,0 +1,4 @@
+Labelled risk/legitimate cases: 8 | TP: 4 | FP: 0 | FN: 0 | TN: 4
+Precision: 100.0% (4/4) | Recall: 100.0% (4/4) | False positives: 0
+Insufficient-data outcomes on binary cases: 0
+Missing-evidence check: 1/1 returned Insufficient data

@@ -1,0 +1,2 @@
+record_id,taxpayer_id,category,evidence_type,valid_from,valid_to,evidence_reference,reason,fdn,line_number
+DEMO-ACT-001,DEMO006,Clothing,Diversification,2026-01-29,2026-06-30,DEMO-DOC-ACT-001,Simulated evidence of diversification into clothing,,
