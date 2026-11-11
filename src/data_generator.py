@@ -17,6 +17,8 @@ from src.repositories import FiscalDocumentRepository, InvoiceLineRepository
 from src.models import InvoicePriceContext
 from src.repositories import InvoicePriceContextRepository
 from shutil import copy2
+from src.case_register import write_demo_register
+from src.demo_scenarios import VAT_STOCKING, add_case_transactions, save_reference_rows
 
 
 MONTHLY_LINE_TARGETS = (252, 248, 252, 248, 252, 248)
@@ -356,6 +358,7 @@ if __name__ == "__main__":
                     make_generated_line(dataset, by_fdn[fdn], source, units, rng)
                 )
 
+    product_lines = add_case_transactions(dataset, by_fdn, product_lines)
     product_lines.sort(
         key=lambda line: (by_fdn[line.fdn].issue_date, line.fdn, line.line_number)
     )
@@ -463,7 +466,7 @@ if __name__ == "__main__":
                 record_date=purchase.issue_date,
                 product_code=line.product_code,
                 unit=line.unit,
-                vat_category=line.vat_category,
+                vat_category=VAT_STOCKING.get((line.fdn, line.line_number), line.vat_category),
                 supply_condition=purchase.supply_condition,
                 source_fdn=line.fdn,
                 source_line_number=line.line_number,
@@ -594,12 +597,13 @@ if __name__ == "__main__":
 
     for filename in (
         "taxpayers.csv",
-        "product_catalogue.csv",
-        "price_benchmarks.csv",
         "business_activity_evidence.csv",
         "demo_case_labels.csv",
     ):
         copy2(folder / filename, dashboard_folder / filename)
+
+    save_reference_rows(dashboard_folder / "product_catalogue.csv", dataset.product_references)
+    save_reference_rows(dashboard_folder / "price_benchmarks.csv", dataset.price_benchmarks)
 
     ready = EFRISDataset(dashboard_folder)
     print(
@@ -607,3 +611,4 @@ if __name__ == "__main__":
         f"{len(ready.documents)} invoices | {len(ready.lines)} invoice lines | "
         f"{len(ready.stock_records)} stock rows"
     )
+    write_demo_register(dashboard_folder)

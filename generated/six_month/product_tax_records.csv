@@ -139,7 +139,7 @@ STK-SIM-W-0049-1,DEMO008,Stocking-in,2026-01-29,PROD007,piece,Standard-rated,Ord
 STK-SIM-W-0049-2,DEMO008,Stocking-in,2026-01-29,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0049,2
 STK-SIM-W-0054-1,DEMO008,Stocking-in,2026-01-30,PROD007,piece,Standard-rated,Ordinary domestic sale,SIM-W-0054,1
 STK-SIM-W-0054-2,DEMO008,Stocking-in,2026-01-30,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0054,2
-STK-SIM-W-0059-1,DEMO004,Stocking-in,2026-02-01,PROD003,piece,Standard-rated,Ordinary domestic sale,SIM-W-0059,1
+STK-SIM-W-0059-1,DEMO004,Stocking-in,2026-02-01,PROD003,piece,Exempt,Ordinary domestic sale,SIM-W-0059,1
 STK-SIM-W-0059-2,DEMO004,Stocking-in,2026-02-01,PROD004,piece,Standard-rated,Ordinary domestic sale,SIM-W-0059,2
 STK-SIM-W-0093-1,DEMO002,Stocking-in,2026-02-01,PROD001,bag,Standard-rated,Ordinary domestic sale,SIM-W-0093,1
 STK-SIM-W-0093-2,DEMO002,Stocking-in,2026-02-01,PROD002,piece,Standard-rated,Ordinary domestic sale,SIM-W-0093,2
@@ -265,9 +265,9 @@ STK-SIM-W-0112-1,DEMO006,Stocking-in,2026-02-27,PROD005,packet,Standard-rated,Or
 STK-SIM-W-0112-2,DEMO006,Stocking-in,2026-02-27,PROD006,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0112,2
 STK-SIM-W-0129-1,DEMO008,Stocking-in,2026-03-02,PROD007,piece,Standard-rated,Ordinary domestic sale,SIM-W-0129,1
 STK-SIM-W-0129-2,DEMO008,Stocking-in,2026-03-02,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0129,2
-STK-SIM-W-0125-1,DEMO004,Stocking-in,2026-03-03,PROD003,piece,Standard-rated,Ordinary domestic sale,SIM-W-0125,1
+STK-SIM-W-0125-1,DEMO004,Stocking-in,2026-03-03,PROD014,piece,Standard-rated,Ordinary domestic sale,SIM-W-0125,1
 STK-SIM-W-0125-2,DEMO004,Stocking-in,2026-03-03,PROD004,piece,Standard-rated,Ordinary domestic sale,SIM-W-0125,2
-STK-SIM-W-0158-1,DEMO010,Stocking-in,2026-03-03,PROD009,piece,Standard-rated,Ordinary domestic sale,SIM-W-0158,1
+STK-SIM-W-0158-1,DEMO010,Stocking-in,2026-03-03,PROD017,piece,Standard-rated,Ordinary domestic sale,SIM-W-0158,1
 STK-SIM-W-0158-2,DEMO010,Stocking-in,2026-03-03,PROD010,piece,Standard-rated,Ordinary domestic sale,SIM-W-0158,2
 STK-SIM-W-0177-1,DEMO008,Stocking-in,2026-03-04,PROD007,piece,Standard-rated,Ordinary domestic sale,SIM-W-0177,1
 STK-SIM-W-0177-2,DEMO008,Stocking-in,2026-03-04,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0177,2
@@ -275,7 +275,7 @@ STK-SIM-W-0119-1,DEMO004,Stocking-in,2026-03-05,PROD003,piece,Standard-rated,Ord
 STK-SIM-W-0119-2,DEMO004,Stocking-in,2026-03-05,PROD004,piece,Standard-rated,Ordinary domestic sale,SIM-W-0119,2
 STK-SIM-W-0135-1,DEMO008,Stocking-in,2026-03-05,PROD007,piece,Standard-rated,Ordinary domestic sale,SIM-W-0135,1
 STK-SIM-W-0135-2,DEMO008,Stocking-in,2026-03-05,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0135,2
-STK-SIM-W-0175-1,DEMO006,Stocking-in,2026-03-05,PROD005,packet,Standard-rated,Ordinary domestic sale,SIM-W-0175,1
+STK-SIM-W-0175-1,DEMO006,Stocking-in,2026-03-05,PROD005,packet,Zero-rated,Ordinary domestic sale,SIM-W-0175,1
 STK-SIM-W-0175-2,DEMO006,Stocking-in,2026-03-05,PROD006,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0175,2
 STK-SIM-W-0139-1,DEMO006,Stocking-in,2026-03-06,PROD005,packet,Standard-rated,Ordinary domestic sale,SIM-W-0139,1
 STK-SIM-W-0139-2,DEMO006,Stocking-in,2026-03-06,PROD006,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0139,2
@@ -396,17 +396,17 @@ STK-SIM-W-0234-2,DEMO002,Stocking-in,2026-04-01,PROD002,piece,Standard-rated,Ord
 STK-SIM-W-0240-1,DEMO002,Stocking-in,2026-04-01,PROD001,bag,Standard-rated,Ordinary domestic sale,SIM-W-0240,1
 STK-SIM-W-0240-2,DEMO002,Stocking-in,2026-04-01,PROD002,piece,Standard-rated,Ordinary domestic sale,SIM-W-0240,2
 STK-SIM-W-0188-1,DEMO008,Stocking-in,2026-04-02,PROD007,piece,Standard-rated,Ordinary domestic sale,SIM-W-0188,1
-STK-SIM-W-0188-2,DEMO008,Stocking-in,2026-04-02,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0188,2
+STK-SIM-W-0188-2,DEMO008,Stocking-in,2026-04-02,PROD008,pair,Exempt,Ordinary domestic sale,SIM-W-0188,2
 STK-SIM-W-0207-1,DEMO010,Stocking-in,2026-04-02,PROD009,piece,Standard-rated,Ordinary domestic sale,SIM-W-0207,1
 STK-SIM-W-0207-2,DEMO010,Stocking-in,2026-04-02,PROD010,piece,Standard-rated,Ordinary domestic sale,SIM-W-0207,2
-STK-SIM-W-0218-1,DEMO008,Stocking-in,2026-04-02,PROD007,piece,Standard-rated,Ordinary domestic sale,SIM-W-0218,1
+STK-SIM-W-0218-1,DEMO008,Stocking-in,2026-04-02,PROD016,piece,Standard-rated,Ordinary domestic sale,SIM-W-0218,1
 STK-SIM-W-0218-2,DEMO008,Stocking-in,2026-04-02,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0218,2
 STK-SIM-W-0191-1,DEMO006,Stocking-in,2026-04-04,PROD005,packet,Standard-rated,Ordinary domestic sale,SIM-W-0191,1
 STK-SIM-W-0191-2,DEMO006,Stocking-in,2026-04-04,PROD006,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0191,2
 STK-SIM-W-0219-1,DEMO010,Stocking-in,2026-04-04,PROD009,piece,Standard-rated,Ordinary domestic sale,SIM-W-0219,1
 STK-SIM-W-0219-2,DEMO010,Stocking-in,2026-04-04,PROD010,piece,Standard-rated,Ordinary domestic sale,SIM-W-0219,2
 STK-SIM-W-0221-1,DEMO006,Stocking-in,2026-04-04,PROD005,packet,Standard-rated,Ordinary domestic sale,SIM-W-0221,1
-STK-SIM-W-0221-2,DEMO006,Stocking-in,2026-04-04,PROD006,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0221,2
+STK-SIM-W-0221-2,DEMO006,Stocking-in,2026-04-04,PROD015,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0221,2
 STK-SIM-W-0222-1,DEMO002,Stocking-in,2026-04-05,PROD001,bag,Standard-rated,Ordinary domestic sale,SIM-W-0222,1
 STK-SIM-W-0222-2,DEMO002,Stocking-in,2026-04-05,PROD002,piece,Standard-rated,Ordinary domestic sale,SIM-W-0222,2
 STK-SIM-W-0227-1,DEMO006,Stocking-in,2026-04-05,PROD005,packet,Standard-rated,Ordinary domestic sale,SIM-W-0227,1
@@ -515,7 +515,7 @@ STK-SIM-W-0215-1,DEMO006,Stocking-in,2026-04-29,PROD005,packet,Standard-rated,Or
 STK-SIM-W-0215-2,DEMO006,Stocking-in,2026-04-29,PROD006,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0215,2
 STK-SIM-W-0291-1,DEMO012,Stocking-in,2026-05-02,PROD011,piece,Standard-rated,Ordinary domestic sale,SIM-W-0291,1
 STK-SIM-W-0291-2,DEMO012,Stocking-in,2026-05-02,PROD012,piece,Standard-rated,Ordinary domestic sale,SIM-W-0291,2
-STK-SIM-W-0272-1,DEMO010,Stocking-in,2026-05-03,PROD009,piece,Standard-rated,Ordinary domestic sale,SIM-W-0272,1
+STK-SIM-W-0272-1,DEMO010,Stocking-in,2026-05-03,PROD009,piece,Zero-rated,Ordinary domestic sale,SIM-W-0272,1
 STK-SIM-W-0272-2,DEMO010,Stocking-in,2026-05-03,PROD010,piece,Standard-rated,Ordinary domestic sale,SIM-W-0272,2
 STK-SIM-W-0287-1,DEMO006,Stocking-in,2026-05-03,PROD005,packet,Standard-rated,Ordinary domestic sale,SIM-W-0287,1
 STK-SIM-W-0287-2,DEMO006,Stocking-in,2026-05-03,PROD006,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0287,2
@@ -654,7 +654,7 @@ STK-SIM-W-0347-2,DEMO004,Stocking-in,2026-06-05,PROD004,piece,Standard-rated,Ord
 STK-SIM-W-0338-1,DEMO006,Stocking-in,2026-06-06,PROD005,packet,Standard-rated,Ordinary domestic sale,SIM-W-0338,1
 STK-SIM-W-0338-2,DEMO006,Stocking-in,2026-06-06,PROD006,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0338,2
 STK-SIM-W-0314-1,DEMO006,Stocking-in,2026-06-08,PROD005,packet,Standard-rated,Ordinary domestic sale,SIM-W-0314,1
-STK-SIM-W-0314-2,DEMO006,Stocking-in,2026-06-08,PROD006,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0314,2
+STK-SIM-W-0314-2,DEMO006,Stocking-in,2026-06-08,PROD015,bottle,Standard-rated,Ordinary domestic sale,SIM-W-0314,2
 STK-SIM-W-0324-1,DEMO010,Stocking-in,2026-06-08,PROD009,piece,Standard-rated,Ordinary domestic sale,SIM-W-0324,1
 STK-SIM-W-0324-2,DEMO010,Stocking-in,2026-06-08,PROD010,piece,Standard-rated,Ordinary domestic sale,SIM-W-0324,2
 STK-SIM-W-0332-1,DEMO006,Stocking-in,2026-06-08,PROD005,packet,Standard-rated,Ordinary domestic sale,SIM-W-0332,1
@@ -663,7 +663,7 @@ STK-SIM-W-0340-1,DEMO012,Stocking-in,2026-06-08,PROD011,piece,Standard-rated,Ord
 STK-SIM-W-0340-2,DEMO012,Stocking-in,2026-06-08,PROD012,piece,Standard-rated,Ordinary domestic sale,SIM-W-0340,2
 STK-SIM-W-0331-1,DEMO008,Stocking-in,2026-06-09,PROD007,piece,Standard-rated,Ordinary domestic sale,SIM-W-0331,1
 STK-SIM-W-0331-2,DEMO008,Stocking-in,2026-06-09,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0331,2
-STK-SIM-W-0348-1,DEMO010,Stocking-in,2026-06-09,PROD009,piece,Standard-rated,Ordinary domestic sale,SIM-W-0348,1
+STK-SIM-W-0348-1,DEMO010,Stocking-in,2026-06-09,PROD017,piece,Standard-rated,Ordinary domestic sale,SIM-W-0348,1
 STK-SIM-W-0348-2,DEMO010,Stocking-in,2026-06-09,PROD010,piece,Standard-rated,Ordinary domestic sale,SIM-W-0348,2
 STK-SIM-W-0352-1,DEMO012,Stocking-in,2026-06-09,PROD011,piece,Standard-rated,Ordinary domestic sale,SIM-W-0352,1
 STK-SIM-W-0352-2,DEMO012,Stocking-in,2026-06-09,PROD012,piece,Standard-rated,Ordinary domestic sale,SIM-W-0352,2
@@ -671,7 +671,7 @@ STK-SIM-W-0354-1,DEMO010,Stocking-in,2026-06-09,PROD009,piece,Standard-rated,Ord
 STK-SIM-W-0354-2,DEMO010,Stocking-in,2026-06-09,PROD010,piece,Standard-rated,Ordinary domestic sale,SIM-W-0354,2
 STK-SIM-W-0357-1,DEMO002,Stocking-in,2026-06-09,PROD001,bag,Standard-rated,Ordinary domestic sale,SIM-W-0357,1
 STK-SIM-W-0357-2,DEMO002,Stocking-in,2026-06-09,PROD002,piece,Standard-rated,Ordinary domestic sale,SIM-W-0357,2
-STK-SIM-W-0311-1,DEMO004,Stocking-in,2026-06-10,PROD003,piece,Standard-rated,Ordinary domestic sale,SIM-W-0311,1
+STK-SIM-W-0311-1,DEMO004,Stocking-in,2026-06-10,PROD014,piece,Standard-rated,Ordinary domestic sale,SIM-W-0311,1
 STK-SIM-W-0311-2,DEMO004,Stocking-in,2026-06-10,PROD004,piece,Standard-rated,Ordinary domestic sale,SIM-W-0311,2
 STK-SIM-W-0333-1,DEMO002,Stocking-in,2026-06-11,PROD001,bag,Standard-rated,Ordinary domestic sale,SIM-W-0333,1
 STK-SIM-W-0333-2,DEMO002,Stocking-in,2026-06-11,PROD002,piece,Standard-rated,Ordinary domestic sale,SIM-W-0333,2
@@ -691,7 +691,7 @@ STK-SIM-W-0318-1,DEMO010,Stocking-in,2026-06-13,PROD009,piece,Standard-rated,Ord
 STK-SIM-W-0318-2,DEMO010,Stocking-in,2026-06-13,PROD010,piece,Standard-rated,Ordinary domestic sale,SIM-W-0318,2
 STK-SIM-W-0337-1,DEMO008,Stocking-in,2026-06-13,PROD007,piece,Standard-rated,Ordinary domestic sale,SIM-W-0337,1
 STK-SIM-W-0337-2,DEMO008,Stocking-in,2026-06-13,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0337,2
-STK-SIM-W-0343-1,DEMO008,Stocking-in,2026-06-13,PROD007,piece,Standard-rated,Ordinary domestic sale,SIM-W-0343,1
+STK-SIM-W-0343-1,DEMO008,Stocking-in,2026-06-13,PROD016,piece,Standard-rated,Ordinary domestic sale,SIM-W-0343,1
 STK-SIM-W-0343-2,DEMO008,Stocking-in,2026-06-13,PROD008,pair,Standard-rated,Ordinary domestic sale,SIM-W-0343,2
 STK-SIM-W-0360-1,DEMO010,Stocking-in,2026-06-13,PROD009,piece,Standard-rated,Ordinary domestic sale,SIM-W-0360,1
 STK-SIM-W-0360-2,DEMO010,Stocking-in,2026-06-13,PROD010,piece,Standard-rated,Ordinary domestic sale,SIM-W-0360,2

@@ -1,0 +1,23 @@
+Streamlit review verification
+Fictional records | January to June 2026
+One heading per issue:
+VAT misclassification: 5 cases
+  Sale FDNs: DEMO-FDN-007, SIM-R-0059, SIM-R-0175, SIM-R-0188, SIM-R-0272
+Purchases without sales: 5 cases
+  Pipe stock review: DEMO-FDN-013 and DEMO-FDN-014; 20 pieces at closing.
+Business-profile mismatch: 5 cases
+Possible price understatement: 5 cases
+
+Dashboard totals:
+Distinct flagged cases | 20 | Invoices and stock reviews
+Flagged findings | 25 | Individual check results
+Not flagged | 5,278 | Individual check results
+Insufficient data | 0 | Evidence needed
+
+CSV downloads: 2
+
+February 2026 only:
+VAT misclassification: 1 case
+Purchases without sales: 0 cases
+Business-profile mismatch: 1 case
+Possible price understatement: 1 case
